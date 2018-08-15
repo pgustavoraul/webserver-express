@@ -1,15 +1,17 @@
 {
-  "name": "webserver",
-  "version": "1.0.0",
-  "description": "Web Server Node",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Gustavo Panchi",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.3",
-    "hbs": "^4.0.1"
-  }
+    "name": "webserver",
+    "version": "1.0.0",
+    "description": "Web Server Node",
+    "main": "app.js",
+    "scripts": {
+        "start": "node server.js",
+        "nodemon": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Gustavo Panchi",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.3",
+        "hbs": "^4.0.1"
+    }
 }
