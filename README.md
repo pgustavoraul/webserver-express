@@ -4,9 +4,9 @@ Es una aplicación web de ejemplo con express y hbs, con configuraciones para su
 
 *Pasos para la instalación:*
 
-    descargar el proyecto
+descargar el proyecto
 
-    ingresar por consola a la carpeta del proyecto y ejecutar este comando
+Ingresar por consola a la carpeta del proyecto y ejecutar este comando
 
 ```
 npm install 
